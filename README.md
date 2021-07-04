@@ -1,6 +1,6 @@
 # Hi there, I'm Shashwat Bagaria 👋
 
-I am a working professional with <u>2+ years of experience</u> in building web application.<br />
+I am a working professional with <u>2+ years of experience</u> in building web applications.<br />
 Other than my traditional work, I have inclination towards `design, startups, movies and crypto`.<br />
 Feel free to connect to discuss on any of the topic 😃
 
