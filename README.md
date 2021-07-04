@@ -5,7 +5,7 @@ Other than my traditional work, I have inclination towards `design, startups, mo
 Feel free to connect to discuss on any of the topic 😃
 
 
-# My Tech Stack 💻
+# 💻 Tech Stack, I've worked in...
 - **Frontend**: React.js, Redux, TypeScript, Web Technologies(HTML, CSS, JavaScript)
 - **Backend**: Node.js, Express.js
 - **Databases**: Firestore, MongoDB
