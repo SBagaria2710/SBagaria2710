@@ -17,7 +17,7 @@ Feel free to connect to discuss on any of the topic 😃
 
 # Projects
 
-I have had to opportunity to work on multiple projects.
+I have had to opportunity to work on multiple projects. Listing some of them 👇
 - [Task Board](https://github.com/SBagaria2710/task-board): Task board for managing task status. Inspired from Jira, Trello, Notion, etc.
 - [Tab Securer](https://www.producthunt.com/posts/tab-securer): Mark, Hide and Show private tabs in one click.
 - [Parker](https://www.producthunt.com/posts/tab-securer): Multi Storey parking management system.
