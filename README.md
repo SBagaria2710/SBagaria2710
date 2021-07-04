@@ -1,8 +1,8 @@
 # Hi there, I'm Shashwat Bagaria 👋
 
 I am a working professional with <u>2+ years of experience</u> in building web applications.<br />
-Other than my traditional work, I have inclination towards `design, startups, movies and crypto`.<br />
-Let's connect to geek out 😃
+Other than my traditional work, I have inclination towards `design, startups, cinema and crypto`.<br />
+Let's [connect](#find-me-here) to geek out on any of the topic mentioned 🤓
 
 
 # 💻 Tech Stack, I've worked in...
@@ -32,7 +32,7 @@ I've also contributed at [Mattermost](https://github.com/mattermost) for a coupl
 
 ![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBagaria2710&&hide=stars&show_icons=true)
 
-# Find me here 📫
+# Find me here
 - [Twitter](https://twitter.com/SBagaria2710)
 - [LinkedIn](https://in.linkedin.com/in/shashwat-bagaria)
 - [CodePen](https://codepen.io/iShashwat/)
