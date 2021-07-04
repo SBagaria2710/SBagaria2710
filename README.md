@@ -10,6 +10,8 @@ Feel free to connect to discuss on any of the topic 😃
 - **Backend**: Node.js, Express.js
 - **Databases**: Firestore, MongoDB
 
+I, personally, believe programming is more about understanding and organization than picking picking out a JavaScript framework.
+
 <br />
 <br />
 
