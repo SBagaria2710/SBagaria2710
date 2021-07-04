@@ -6,9 +6,14 @@ Feel free to connect to discuss on any of the topic 😃
 
 
 # 💻 Tech Stack, I've worked in...
-- **Frontend**: React.js, Redux, TypeScript, Web Technologies(HTML, CSS, JavaScript)
+- **Frontend**: ReactJS, Redux, TypeScript, VueJS, Web Technologies(HTML, CSS, JavaScript)
 - **Backend**: Node.js, Express.js
 - **Databases**: Firestore, MongoDB
+
+<br />
+<br />
+
+> Note: Use `CTRL+click` (on Windows and Linux) or `CMD+click` (on MacOS) on the link, to open links on a new tab.
 
 # Projects
 
