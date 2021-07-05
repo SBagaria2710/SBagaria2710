@@ -15,7 +15,7 @@ I, personally, believe programming is more about articulating and organization t
 <br />
 <br />
 
-> Note: Use `CTRL+click` (on Windows and Linux) or `CMD+click` (on MacOS) on the link, to open links on a new tab.
+> BroTip: Use `CTRL+click` (on Windows and Linux) or `CMD+click` (on MacOS) on the link, to open links on a new tab.
 
 # Projects
 
