@@ -2,7 +2,7 @@
 
 I am a working professional with <u>2+ years of experience</u> in building web applications.<br />
 Other than my traditional work, I have inclination towards `design, startups, cinema and crypto`.<br />
-Let's [connect](#find-me-here) to geek out on any of the topic mentioned 🤓
+Let's [connect](#find-me-here) to geek out on any of the topics mentioned 🤓
 
 
 # 💻 Tech Stack, I've worked in...
