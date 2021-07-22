@@ -26,7 +26,7 @@ I have had to opportunity to work on multiple projects. Listing some of them ðŸ‘
 
 # Open Source Contribution:
 
-I'm an active contributor/member at [Real Dev Squad](https://github.com/Real-Dev-Squad) from February 2021. I'm also the app owner of [website-learn](https://github.com/Real-Dev-Squad/website-learn) which is written in Vue.js<br />
+I'm an active contributor/member at [Real Dev Squad](https://github.com/Real-Dev-Squad) from February 2021. I'm also the app owner of [website-learn](https://github.com/Real-Dev-Squad/website-learn) which is primarily written in Vue.js<br />
 I've also contributed at [Mattermost](https://github.com/mattermost) for a couple of issues.
 
 
