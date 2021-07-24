@@ -33,8 +33,8 @@ I've also contributed at [Mattermost](https://github.com/mattermost) for a coupl
 ![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBagaria2710&&hide=stars&show_icons=true)
 
 # Find me here
-- [Twitter](https://twitter.com/SBagaria2710)
 - [LinkedIn](https://in.linkedin.com/in/shashwat-bagaria)
+- [Twitter](https://twitter.com/SBagaria2710)
 - [CodePen](https://codepen.io/iShashwat/)
 
 <!--
