@@ -6,7 +6,7 @@ Let's [connect](#find-me-here) to geek out on any of the topics mentioned 🤓
 
 
 # 💻 Tech Stack, I've worked in...
-- **Frontend**: ReactJS, Redux, TypeScript, VueJS, NextJS Web Technologies(HTML, CSS, JavaScript)
+- **Frontend**: ReactJS, Redux, TypeScript, VueJS, NextJS, Web Technologies(HTML, CSS, JavaScript)
 - **Backend**: Node.js, Express.js
 - **Databases**: Firestore, MongoDB
 
