@@ -27,7 +27,7 @@ I have had to opportunity to work on multiple projects. Listing some of them üë
 # Open Source Contribution ü§ù
 
 I'm an active contributor/member at [Real Dev Squad](https://github.com/Real-Dev-Squad) from February 2021. I'm also the app owner of [website-learn](https://github.com/Real-Dev-Squad/website-learn) which is primarily written in Vue.js<br />
-I've also contributed at [Mattermost](https://github.com/mattermost) for a couple of issues.
+I've also contributed at [Mattermost](https://github.com/mattermost) for a [couple](https://github.com/mattermost/mattermost-server/issues?q=assignee%3ASBagaria2710+is%3Aclosed+) of issues.
 
 
 ![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBagaria2710&&hide=stars&show_icons=true)
