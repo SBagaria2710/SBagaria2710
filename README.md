@@ -5,7 +5,7 @@ Other than my traditional work, I have inclination towards `design, startups, ci
 Let's [connect](#find-me-here) to geek out on any of the topics mentioned 🤓
 
 
-# 💻 Tech Stack, I've worked in...
+# 💻 Tech Stack, I've worked with 🧰
 - **Frontend**: ReactJS, Redux, TypeScript, VueJS, NextJS, Web Technologies(HTML, CSS, JavaScript)
 - **Backend**: Node.js, Express.js
 - **Databases**: Firestore, MongoDB
@@ -17,14 +17,14 @@ I, personally, believe programming is more about articulating and organization t
 
 > BroTip: Use `CTRL+click` (on Windows and Linux) or `CMD+click` (on MacOS) on the link, to open links on a new tab.
 
-# Projects
+# Projects 👷‍♂️
 
 I have had to opportunity to work on multiple projects. Listing some of them 👇
 - [Task Board](https://github.com/SBagaria2710/task-board): Task board for managing task status. Inspired from Jira, Trello, Notion, etc.
 - [Tab Securer](https://www.producthunt.com/posts/tab-securer): Mark, Hide and Show private tabs in one click.
 - [Parker](https://www.producthunt.com/posts/tab-securer): Multi Storey parking management system.
 
-# Open Source Contribution:
+# Open Source Contribution 🤝
 
 I'm an active contributor/member at [Real Dev Squad](https://github.com/Real-Dev-Squad) from February 2021. I'm also the app owner of [website-learn](https://github.com/Real-Dev-Squad/website-learn) which is primarily written in Vue.js<br />
 I've also contributed at [Mattermost](https://github.com/mattermost) for a couple of issues.
@@ -32,7 +32,7 @@ I've also contributed at [Mattermost](https://github.com/mattermost) for a coupl
 
 ![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBagaria2710&&hide=stars&show_icons=true)
 
-# Let's connect 🙂
+# Let's connect 📫
 - [LinkedIn](https://in.linkedin.com/in/shashwat-bagaria)
 - [Twitter](https://twitter.com/SBagaria2710)
 - [CodePen](https://codepen.io/iShashwat/)
