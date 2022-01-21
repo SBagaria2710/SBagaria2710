@@ -20,7 +20,7 @@ I, personally, believe programming is more about articulating and organization t
 # Projects 👷‍♂️
 
 I have had to opportunity to work on multiple projects. Listing some of them 👇
-- [wall.eth](https://github.com/SBagaria2710/wall.eth): Crypto-currency app to transfer ETH from one wallet to another.
+- [Wall.Eth](https://github.com/SBagaria2710/wall.eth): Crypto-currency app to transfer ETH from one wallet to another.
 - [Task Board](https://github.com/SBagaria2710/task-board): Task board for managing task status. Inspired from Jira, Trello, Notion, etc.
 - [Tab Securer](https://www.producthunt.com/posts/tab-securer): Mark, Hide and Show private tabs in one click.
 - [Parker](https://www.producthunt.com/posts/tab-securer): Multi Storey parking management system.
