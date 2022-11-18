@@ -1,16 +1,16 @@
 # Hi there, I'm Shashwat Bagaria 👋
 
-I am a working professional with <u>2.5+ years of experience</u> in building web applications.<br />
-Other than my traditional work, I have inclination towards `design, startups, cinema and crypto`.<br />
+I am a working professional with <u>3+ years of experience</u> in building web applications.<br />
+Other than my blabbering about web, I also have inclination towards `design, startups, cinema and crypto`.<br />
 Let's [connect](#find-me-here) to geek out on any of the topics mentioned 🤓
 
 
 # 💻 Tech Stack, I've worked with 🧰
-- **Frontend**: ReactJS, Redux, TypeScript, VueJS, NextJS, Web Technologies(HTML, CSS, JavaScript)
+- **Frontend**: ReactJS, Redux, TypeScript, VueJS, NextJS, Web Technologies(HTML, CSS, JavaScript), Web Performance
 - **Backend**: Node.js, Express.js
 - **Databases**: Firestore, MongoDB
 
-I, personally, believe programming is more about articulating and organization than picking out a random framework 🤷
+I, personally, believe programming is more about articulating and organization than picking a random framework 🤷
 
 <br />
 <br />
@@ -20,13 +20,14 @@ I, personally, believe programming is more about articulating and organization t
 # Projects 👷‍♂️
 
 I have had to opportunity to work on multiple projects. Listing some of them 👇
+- [Lofi Night](https://github.com/SBagaria2710/lofi-night.club): A lofi station of hand-picked songs which is only accessible at night.
 - [Wall.Eth](https://github.com/SBagaria2710/wall.eth): A cryptocurrency project to send crypto around the world.
 - [Task Board](https://github.com/SBagaria2710/task-board): Task board for managing task status. Inspired from Notion.
 - [Tab Securer](https://www.producthunt.com/posts/tab-securer): A browser extension to mark, hide and show private tabs in one click.
 
 # Open Source Contribution 🤝
 
-I'm an active contributor/member at [Team Shiksha](http://frontend.army/) and [Real Dev Squad](https://github.com/Real-Dev-Squad) from February 2021. I'm also the app owner of [website-learn](https://github.com/Real-Dev-Squad/website-learn) which is primarily written in Vue.js<br />
+I'm an active mentor/learner/community manager at [Team Shiksha](http://frontend.army/) and [Real Dev Squad](https://github.com/Real-Dev-Squad) from February 2021. I'm also the app owner of [website-learn](https://github.com/Real-Dev-Squad/website-learn) which is primarily written in Vue.js<br />
 I've also contributed at [Mattermost](https://github.com/mattermost) for a [couple](https://github.com/mattermost/mattermost-server/issues?q=assignee%3ASBagaria2710+is%3Aclosed+) of issues.
 
 
