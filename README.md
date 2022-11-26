@@ -1,7 +1,7 @@
 # Hi there, I'm Shashwat Bagaria 👋
 
 I am a working professional with <u>3+ years of experience</u> in building web applications.<br />
-Other than my blabbering about web, I also have inclination towards `design, startups, cinema and crypto`.<br />
+Other than my blabbering about web, I also have inclination towards `design, startups and cinema`.<br />
 Let's [connect](#find-me-here) to geek out on any of the topics mentioned 🤓
 
 
