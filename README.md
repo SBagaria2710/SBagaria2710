@@ -21,7 +21,7 @@ I, personally, believe programming is more about articulating and organization t
 
 I have had to opportunity to work on multiple projects. Listing some of them 👇
 <!-- - [Lofi Night](https://github.com/SBagaria2710/lofi-night.club): A lofi station of hand-picked songs which is only accessible at night. -->
-- [Wall.Eth](https://github.com/SBagaria2710/wall.eth): A cryptocurrency project to send crypto around the world.
+- [Wall.Eth](https://github.com/SBagaria2710/wall.eth): An aggregator to send crypto around the world by simply connecting your wallet.
 - [Task Board](https://github.com/SBagaria2710/task-board): Task board for managing task status. Inspired from Notion.
 - [Tab Securer](https://www.producthunt.com/posts/tab-securer): A browser extension to mark, hide and show private tabs in one click.
 
