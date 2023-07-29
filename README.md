@@ -1,12 +1,12 @@
 # Hi there, I'm Shashwat Bagaria 👋
 
-I am a working professional with <u>3+ years of experience</u> in building web applications.<br />
+I am a working professional with <u>4 years of experience</u> in building web applications.<br />
 Other than my blabbering about web, I also have inclination towards `design, startups and cinema`.<br />
 Let's [connect](#find-me-here) to geek out on any of the topics mentioned 🤓
 
 
 # 💻 Tech Stack, I've worked with 🧰
-- **Frontend**: ReactJS, Redux, TypeScript, VueJS, NextJS, Web Technologies(HTML, CSS, JavaScript), Web Performance
+- **Frontend**: ReactJS, Redux, TypeScript, NextJS, VueJS, Flutter, Web Technologies(HTML, CSS, JavaScript), Web Performance
 - **Backend**: Node.js, Express.js
 - **Databases**: Firestore, MongoDB
 
@@ -27,7 +27,7 @@ I have had to opportunity to work on multiple projects. Listing some of them �
 
 # Open Source Contribution 🤝
 
-I'm an active mentor/learner/community manager at [Team Shiksha](http://frontend.army/) and [Real Dev Squad](https://github.com/Real-Dev-Squad) from February 2021. I'm also the app owner of [website-learn](https://github.com/Real-Dev-Squad/website-learn) which is primarily written in Vue.js<br />
+I'm an active mentor/learner/community manager at [Team Shiksha](http://frontend.army/) and [Real Dev Squad](https://github.com/Real-Dev-Squad) from February 2021.<br />
 I've also contributed at [Mattermost](https://github.com/mattermost) for a [couple](https://github.com/mattermost/mattermost-server/issues?q=assignee%3ASBagaria2710+is%3Aclosed+) of issues, among other open source projects.
 
 
@@ -37,18 +37,3 @@ I've also contributed at [Mattermost](https://github.com/mattermost) for a [coup
 - [LinkedIn](https://in.linkedin.com/in/shashwat-bagaria)
 - [Twitter](https://twitter.com/SBagaria2710)
 - [CodePen](https://codepen.io/iShashwat/)
-
-<!--
-**SBagaria2710/SBagaria2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
