@@ -4,7 +4,7 @@ I'm a fullstack engineer with **6+ years of experience** crafting performant, sc
 
 Beyond code, I'm curious about `engineering`, `energy sector`, `systems`, `design`, `startups`, and `cinema`. I also host a podcast called **The Positive Shift**.
 
-Let's [connect](#lets-connect-) if you'd like to geek out over any of those 🤓
+Let's [connect](#-lets-connect) if you'd like to geek out over any of those 🤓
 
 ---
 
