@@ -61,6 +61,7 @@ I've also worked on multiple issues at [Mattermost](https://github.com/mattermos
 
 # 📫 Let's Connect
 
+- [Portfolio](https://portfolio.shashwatbagaria.com/?utm_source=github&utm_medium=profile&utm_campaign=portfolio)
 - [LinkedIn](https://in.linkedin.com/in/shashwat-bagaria)
 - [Twitter/X](https://twitter.com/SBagaria2710)
 - [CodePen](https://codepen.io/iShashwat/)
