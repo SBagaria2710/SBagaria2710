@@ -35,6 +35,7 @@ A few things I've shipped that I'm proud of:
 # 🛠️ Projects
 
 - [Shashwat's portfolio](https://portfolio.shashwatbagaria.com/?utm_source=github&utm_medium=profile&utm_campaign=portfolio): As the name says: "Shashwat's portfolio website".
+- [The Bright Pause](https://thebrightpause.com/): LinkedIn makes you question your career. Twitter leaves you feeling dumb. Instagram makes life look thinner than it is. We're making room for the opposite i.e., small, real and optimistic.
 - [Wall.Eth](https://github.com/SBagaria2710/wall.eth): A Web3 app for sending crypto via wallet connections.
 - [Task Board](https://github.com/SBagaria2710/task-board): A minimal task tracker inspired by Notion's workflow.
 - [Tab Securer](https://www.producthunt.com/posts/tab-securer): A Chrome extension to mark, hide, and show private tabs with one click.
